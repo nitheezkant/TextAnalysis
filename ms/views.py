@@ -27,4 +27,5 @@ def anal(request):
 
 def index(request):
     return render(request,'index.html')
-    #return HttpResponse('''<head><title>Bakchodify</title></head> <h1>Bakchodify</h1> <a href="https://youtu.be/0NFxcNheoLc">Banjaara</a>''')
+   
+    
